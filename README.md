@@ -18,7 +18,7 @@
   <img align="center" alt="JFGoes-Python" height="30" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img align="center" alt="JFGoes-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="JFGoes-C++" height="30" width="50" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="JFGoes-VSCode" height="30" width="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic>
+    <img align="center" alt="JFGoes-VSCode" height="30" width="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACClogo=visualstudiocode&logoColor=fff&style=plastic">
    
 </div>
   
