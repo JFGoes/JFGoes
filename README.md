@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente, estou trabalhando com programação em **Python**, **C/C++** e **Cuda**.
 - 🌱 Eu estou aprendendo **Machine Learning** aplicada a **Dinâmica de Fluidos Computacional**.
+- Estou desenvolvendo aplicativos usando o **framework Flet**, que permite criar **aplicativos web**, **desktop** e **móveis** em Python sem experiência prévia em desenvolvimento frontend.  
 
 
 <div align="center">
