@@ -18,7 +18,7 @@
   <img align="center" alt="JFGoes-Python" height="30" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img align="center" alt="JFGoes-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="JFGoes-C++" height="30" width="50" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" alt="JFGoes-VSCode" height="30" width="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACClogo=visualstudiocode&logoColor=fff&style=plastic">
+    
    
 </div>
   
@@ -28,6 +28,7 @@
     <img align="center" alt="JFGoes-Colab" height="30" width="50" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
     <img align="center" alt="JFGoes-eclipse" height="30" width="50" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     <img align="center" alt="JFGoes-spyder" height="30" width="50" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
+    <img align="center" alt="JFGoes-VSCode" height="30" width="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACClogo=visualstudiocode&logoColor=fff&style=plastic">
    </div>
   
   ##
